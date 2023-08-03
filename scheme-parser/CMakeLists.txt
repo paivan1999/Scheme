@@ -1,0 +1,2 @@
+add_catch(test_scheme_parser test.cpp)
+target_link_libraries(test_scheme_parser libscheme)

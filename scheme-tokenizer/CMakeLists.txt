@@ -1,0 +1,2 @@
+add_catch(test_scheme_tokenizer test.cpp)
+target_link_libraries(test_scheme_tokenizer libscheme)
